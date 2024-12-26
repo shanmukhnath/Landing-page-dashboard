@@ -20,7 +20,6 @@ export default [
     rules: {
       "eqeqeq": ["error", "always"],
       "no-unused-vars": "error",
-      "prefer-const": ["error", { "ignoreReadBeforeAssign": true }],
       'react/react-in-jsx-scope': 'off',
   }
 }
